@@ -14,10 +14,12 @@
 	},
 	"dependencies": {
 		"@types/unzipper": "^0.10.4",
+		"await-notify": "^1.0.1",
 		"axios": "^0.21.2",
 		"fs-extra": "^10.0.0",
 		"mobx": "^6.3.3",
 		"rxjs": "^7.3.0",
+		"vscode-debugadapter": "^1.49.0",
 		"vscode-languageclient": "^7.0.0"
 	},
 	"devDependencies": {
